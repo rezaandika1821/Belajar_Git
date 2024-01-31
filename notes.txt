@@ -1,0 +1,21 @@
+Langkah langkah Penggunaan gvc
+1. inisialisasi menggunakan git init
+2. menambahkan file direktori stagging area menggunakan git add <nama file> / [.] untuk semua file
+3. menambahkan file direktori ke commit area dengan git commit -m "<pesan>" 
+4. membuat direktori di git dengan ketentuan user
+5. salin link remote
+6. tambahkan link remote dengan git remote add <nama remote> <link remote>
+7. untuk push direktori git push -u <nama remote> <nama branch>
+
+Konfigurasi git
+git config --global user.email "<email>"
+git config --global user.name "<username>"
+
+Perintah line untuk git
+git status untuk mengecek direktori kita sedang berada dimana
+git remote -v untuk mengecek link remote mana yang telah tertaut
+
+Membuat branch
+git branch untuk membuat branch baru
+git checkout <nama branch>
+
