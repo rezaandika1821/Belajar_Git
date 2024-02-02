@@ -1,0 +1,11 @@
+Buatlah Program Sederhana Dengan standart Input output fmt dan stdin dengan struktur sebagai berikut
+
+Masukkan Nama Anda : <inputan>
+Masukkan Nim Anda : <inputan>
+Masukkan Universitas Anda : <inputan>
+
+
+Outputan Yang diharapkan 
+Perkenalkan Nama saya <nama Anda> Dengan Nim <nim> dan saya sedang berkuliah di <nama universitas> 
+
+dengan format fmt baik untuk println, printf, dan print
